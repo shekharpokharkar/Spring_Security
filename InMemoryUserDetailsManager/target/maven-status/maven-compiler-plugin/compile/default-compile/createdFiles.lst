@@ -1,0 +1,5 @@
+com\seleniumExpress\AppConfig.class
+com\seleniumExpress\AppInitializer.class
+com\seleniumExpress\SEConfig\SecurityConfig.class
+com\seleniumExpress\SEConfig\SecurityInitializer.class
+com\seleniumExpress\controller\TestController.class

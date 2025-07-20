@@ -1,0 +1,8 @@
+com\seleniumexpress\DTO\RegistrationDTO.class
+com\seleniumexpress\SEConfig\SecurityConfig.class
+com\seleniumexpress\SEConfig\SecurityInitializer.class
+com\seleniumexpress\AppInitializer.class
+com\seleniumexpress\controller\TestController.class
+com\seleniumexpress\DTO\t.class
+com\seleniumexpress\AppConfig.class
+com\seleniumexpress\controller\RegistrationController.class
