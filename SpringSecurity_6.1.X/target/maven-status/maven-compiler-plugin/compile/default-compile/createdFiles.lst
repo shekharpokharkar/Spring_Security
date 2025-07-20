@@ -1,0 +1,5 @@
+com\seleniumexpress\config\AppConfig.class
+com\seleniumexpress\config\DsInitializer.class
+com\seleniumexpress\controller\TestController.class
+com\seleniumexpress\securityConfig\SecurityConfiguration.class
+com\seleniumexpress\securityConfig\SpringSecurityInitializer.class
